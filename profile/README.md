@@ -1,6 +1,11 @@
-# 🚀 Stack N9ne  
+<!-- .github/profile/README.md-->
 
-> *"Nine minds. One stack. Infinite possibilities."*  
+<p align="center><img src="" alt="" width="720"></p>
+<h1 align="center">Stack N9ne -- MSSA Cloud App Development</h1>
+<p align="center">
+*"Nine minds. One stack. Infinite possibilities."*
+</p>
+<br>
 
 Welcome to **Stack N9ne**, the elite crew of 9 developers leveling up through the **MSSA Cloud Application Development Program**.  
 We’re a cohort forged in code, fueled by coffee, and driven by the cloud.  
@@ -12,7 +17,7 @@ We’re a cohort forged in code, fueled by coffee, and driven by the cloud.
 - Cloud wranglers, API tamers, and architecture dreamers.  
 - Building the future one repo at a time.  
 
-Think *The Fellowship of the Ring* — but with more commits and fewer orcs.  
+Think *The Fellowship of the Ring* but with more commits and fewer orcs.  
 
 ---
 
